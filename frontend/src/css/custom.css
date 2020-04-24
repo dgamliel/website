@@ -1,0 +1,13 @@
+body {
+	background-color: #271436;
+	text-align: center;
+}
+
+centered {
+	display: inline-block;	
+}
+
+topText {
+	margin-top: 10px;
+	font-size: 1.4em;
+}
